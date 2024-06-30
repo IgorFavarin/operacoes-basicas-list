@@ -1,7 +1,6 @@
 package List.OperacoesBasicas.Ordenacao;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
@@ -45,7 +44,5 @@ public class OrderPessoa {
         System.out.println("Orenando por idade \n" + ordendarPessoa.ordenarPorIdade());
         System.out.println("Orenando por altura \n" + ordendarPessoa.ordenarPorAltura());
     }
-
-
     
 }

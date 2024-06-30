@@ -59,6 +59,7 @@ public class SomaDosNumeros {
         }
     }
 
+
     public static void main(String[] args) {
         SomaDosNumeros somaDosNumeros = new SomaDosNumeros();
         somaDosNumeros.adicionarNumero(10);
@@ -75,6 +76,7 @@ public class SomaDosNumeros {
         System.out.println(somaDosNumeros.encontrarMaiorNumero());
         System.out.println(somaDosNumeros.encontrarMenorNumero());
         somaDosNumeros.exibirNumeros();
+        
 
     }
 

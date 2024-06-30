@@ -1,4 +1,4 @@
-package List.OperacoesBasicas.Numeros;
+package List.OperacoesBasicas.OrdenacaoNumeros;
 
 public class Numeros implements Comparable<Numeros>{
     private int numeros;
